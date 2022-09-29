@@ -1,0 +1,20 @@
+{
+  "name": "Blockchain",
+  "version": "1.0.0",
+  "description": "Blockchain initial",
+  "author": "",
+  "main": "server.js",
+  "license": "MIT",
+  "repository": "https://github.com/cpyadav/Blockchain.git",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "ganache-cli": "^6.12.2",
+    "web3": "^1.8.0",
+    "web3-bzz": "^1.8.0",
+    "web3-eth": "^1.8.0",
+    "web3-utils": "^1.8.0"
+  }
+}
